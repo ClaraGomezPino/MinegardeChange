@@ -1,0 +1,16 @@
+.centerImage {
+    margin: auto;
+    display: block;
+}
+
+.burly {
+    background-color: burlywood
+}
+
+.brown {
+    background-color: #ab753b
+}
+
+h3 {
+    font-size: 30%;
+}
